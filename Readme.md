@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing applications that leverage Machine Learning models and Large Language Models (LLMs) to solve real-world problems.<br>👯 I’m looking to collaborate on: Open-source projects related to AI, Natural Language Processing (NLP), and integrating ML models into production environments.<br>🤝 I’m looking for help with: Optimizing and deploying Machine Learning models at scale, especially in the areas of NLP and LLMs.<br>🌱 I’m currently learning: Advanced techniques in deep learning, reinforcement learning, and fine-tuning large-scale transformer models.<br>💬 Ask me about: Machine Learning, NLP, LLMs (Gemini or Llama), integrating AI into web applications, and scalable software architecture.<br>⚡ Fun fact: I once built a chatbot using an LLM that helped solve over 500 queries a day!
+Software developer with a Masters in Computer Science from University of Texas Arlington. 
+
+I love building applications which better human lives. I have worked for startups, and I strongly believe in a "constant learning" work environment regardless. 
+
+- Skilled in building dynamic and user-centric interfaces with React, Next.js, and JavaScript. 
+- Strong backend development skills using Flask, FastAPI, and Node.js for scalable applications. 
+- Expertise in managing relational and NoSQL databases, including PostgreSQL, MySQL, and MongoDB. 
+- Adept at developing RESTful APIs for seamless integration across platforms. 
+- Extensive experience with containerization using Docker to ensure scalability and reliability. 
+- Hands-on experience in deploying and managing solutions on cloud platforms like AWS and Azure. 
+- Advanced expertise in Python and SQL for data analysis, visualization, and actionable insights. 
+- Proficient in automating ETL pipelines and creating interactive dashboards to streamline decision making. 
+- Skilled in optimizing large datasets for performance and accuracy with competent in leveraging Python and ML libraries for predictive analytics and modeling. 
+- Experienced in embedding AI-driven features to enhance application capabilities. 
+- Experienced in designing Retrieval-Augmented Generation (RAG) pipelines for efficient data processing. 
+- Proficient in using Git for collaborative development and maintaining robust version control. 
+
+Specialties: Java, Python, C++, Databases, React JS, AWS, Salesforce, Analytics
 
 <!-- 
 
